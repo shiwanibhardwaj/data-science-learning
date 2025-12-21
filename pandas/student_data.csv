@@ -1,0 +1,9 @@
+Student_ID,Name,Age,Gender,Math_Score,Science_Score,Attendance,City
+101,Amit,20,Male,85,78,90,Delhi
+102,Neha,21,Female,88,,85,Mumbai
+103,Rahul,,Male,70,65,,Bangalore
+104,Priya,22,Female,,72,88,
+105,Ankit,20,Male,60,55,75,Delhi
+106,Simran,21,Female,92,89,,Chennai
+107,,23,Male,75,,80,Hyderabad
+108,Kavya,22,Female,80,77,92,Mumbai

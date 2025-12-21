@@ -31,7 +31,7 @@ df['values']=df['Age']-df['Score'] #we can perform other arithmetic operations.
 print(df)
 
 #finding data...
-df['info']=df['Age'] <20
+df['info']=df['Age'] < 20
 print(df)
 
 print(df["Age"]<=20)
