@@ -47,7 +47,3 @@ print(f'addition of arr with itself:\n {arr+arr}')
 print(f'subtraction of arr with itself:\n {arr-arr}')
 print(f'multiplication of arr with itself:\n {arr*arr}')
 
-
-#Broadcasting.....
-arr = np.array([1, 2, 3])
-print(arr + 5)
